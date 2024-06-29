@@ -44,7 +44,7 @@
 
 	75%,
     100%{
-        color: #eecc11;
+        color: #fb00ea;
     }
 }
 :root {
@@ -4096,7 +4096,8 @@ p {
 :root .v-light-head {
     --bg-color: #f9f9f9;
     --assistant-color: #efefef;
-    --theme-color: #eecc11;
+    --theme-color: #8706FB;
+    /* --theme-color: #fb00ea; */
     --theme-color-font: #fff;
     --font-color: #0009;
     --heading-color: #000;
@@ -4131,7 +4132,7 @@ p {
     .v-dark-head-mobile {
         --bg-color: #131313;
         --assistant-color: #191919;
-        --theme-color: #eecc11;
+        --theme-color: #fb00ea;
         --font-color: #ddd;
         --heading-color: #fff;
         --border-color: #ffffff1a;
@@ -4168,7 +4169,7 @@ p {
     --overlay-blend-mode: unset;
 }
 :root .dsn-icon-theme-color {
-    --theme-color: #eecc11;
+    --theme-color: #fb00ea;
 }
 @media only screen and (min-width: 1400px) {
     :root {
@@ -8009,7 +8010,7 @@ ul.list-style-none {
 }
 .move-circle.background-theme .icon-circle:hover {
     transition: all 7s cubic-bezier(0.32, 0, 0.67, 0) 0s 1 normal backwards;
-    color: #eecc11; 
+    color: #fb00ea; 
     /* animation: myAnim 7s cubic-bezier(0.32, 0, 0.67, 0) 0s 1 normal backwards; */
 }
 .move-circle.border-color-default .icon-circle {
@@ -10026,7 +10027,7 @@ ul.intro-project-list li h5.title-list-project + p.description-list-project {
     margin-left: 10px;
 }
 .v-light #dsn_cart {
-    --theme-color: #eecc11;
+    --theme-color: #fb00ea;
 }
 #dsn_cart .widget_shopping_cart ul.product_list_widget li .quantity {
     margin-top: 0;
