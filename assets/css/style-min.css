@@ -4115,7 +4115,7 @@ p {
     --assistant-color: #12104D;
     --font-color: #ddd;
     --heading-color: #fff;
-    --border-color: #ffffff1a;
+    --border-color: #282828;
     --smooth-color: #f9f9f9;
     --reverse-color: #f9f9f9;
     --reverse-heading-color: #000;
@@ -4135,7 +4135,7 @@ p {
         --theme-color: #fb00ea;
         --font-color: #ddd;
         --heading-color: #fff;
-        --border-color: #ffffff1a;
+        --border-color: #282828;
         --smooth-color: #f9f9f9;
         --reverse-color: #f9f9f9;
         --reverse-heading-color: #000;
@@ -10842,7 +10842,7 @@ body.tax-product_cat #dsn_header {
     }
 }
 .cta-button {
-    color: #000;
+    color: #fff;
 }
 .cta-button .dsn-btn .title-btn {
     font-size: 18px;
