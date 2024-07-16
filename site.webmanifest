@@ -1,6 +1,6 @@
 {
-  "name": "Manure Marketing",
-  "short_name": "Manure Marketing",
+  "name": "Fapas Digital Media",
+  "short_name": "Fapas",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -8,7 +8,8 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#222222",
-  "background_color": "#222222",
+  "theme_color": "#8b2ff5",
+  "background_color": "#8b2ff5",
   "display": "standalone"
+
 }
